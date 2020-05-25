@@ -2,6 +2,7 @@ import Post from './Post'
 import json from './assets/json'
 import './styles/styles.css'
 import jpg from './assets/Screenshot_3.png'
+import './styles/style.scss'
 
 const post = new Post('Webpack Post Title', jpg)
 
