@@ -1,0 +1,23 @@
+@import "~normalize.css";
+@import "font.css";
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(31, 32, 65, 0.75);
+}
+
+.italic{
+    font-style: italic;
+}
+
+
+.logo {
+    background-image: url("../assets/Screenshot_3.png");
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+}
