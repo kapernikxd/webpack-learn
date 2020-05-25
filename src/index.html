@@ -7,8 +7,90 @@
 
 </head>
 <body>
+<div>
+    <div class="italic">Инициализируем проект, появляется файл package.json</div>
+    <p> 1) npm init</p>
+    </br>
+    <div class="italic">устанавливаем WebPack, где -D зависмости только в разработке => devDependencies. WebPack - кореневой функционал, webpack cli  - пакет отвечает за команды в консоли</div>
+    <p>2) npm install -D webpack webpack-cli</p>
+    </br>
+    <p>3) создаем файл webpack.config.js, где mode - режим минифицирован или нет, entry - от куда брать код, output - куда вставлять</p>
+
+    <div>Заработали команды в консоли только после установки данного кода</div>
+    <p>4) npm install -g --save-dev webpack-cli </p>
+
+    <p>команда webpack запускает сборку</p>
+    </br>
+    <div class="italic">Устанавливаем плагин для подключение динамических url в index.html</div>
+    <p>5) npm install -D html-webpack-plugin</p>
 
 
+    </br>
+    <div class="italic">удаляем ненужные файлы после нового deploy</div>
+    <p>6) npm install -D clean-webpack-plugin</p>
+
+
+    </br>
+    <div class="italic">плагины для отображения css файлов</div>
+    <p>7) npm i -D style-loader css-loader</p>
+
+    </br>
+    <div class="italic">плагины для отображения картинок и других файлов</div>
+    <p>8) npm install -D file-loader</p>
+
+    <div class="logo"></div>
+
+    </br>
+    <p>9) npm install normalize.css</p>
+
+
+
+    </br>
+    <p>9) npm i -D xml-loader</p>
+
+    <p>9) npm i -D html-loader</p>
+
+    </br>
+    <div class="italic">пакет для чтения csv</div>
+    <p>9) npm i -D papaparse</p>
+
+
+    <div class="italic">resolve: { extensions: ['js']} - для чтения файлов без их расширения, удалил из config т.к. вызывало ошибку</div>
+    <div class="italic">optimization: {splitChunks: {chunks: "all"}}- нужно чтобы библиотеки не подгружались по несколько раз в разных компонентах</div>
+
+    </br>
+    <div class="italic">пакет для автоматической пересборки приложения</div>
+    <p>9) npm install -D webpack-dev-server</p>
+
+
+    </br>
+    <div class="italic">пакет переброски данных</div>
+    <p>10) npm i -D copy-webpack-plugin</p>
+
+
+    </br>
+    <div class="italic">пакет для css создает файл</div>
+    <p>11) npm install --save-dev mini-css-extract-plugin</p>
+
+
+    </br>
+    <p>12) npm i -D cross-env (1:50 - время)</p>
+    </br>
+    <div class="italic">пакет оптимизируем js</div>
+    <p>13) npm install terser-webpack-plugin --save-dev</p>
+    </br>
+
+    <div class="italic">пакет оптимизируем css</div>
+    <p>14)npm i --save-dev optimize-css-assets-webpack-plugin</p>
+
+    <p>npm install</p>
+
+
+    </br></br></br>
+    <div class="italic">запуск сборки</div>
+    <b>npm run dev</b>
+
+</div>
 
 </body>
 </html>

@@ -2,48 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bfb942d-ac1d-407e-8617-93d6a7a99352" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webpack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/analytics.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Screenshot_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Montserrat-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Quicksand-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Quicksand-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Quicksand-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Quicksand-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Quicksand-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Quicksand-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/json.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/font.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +78,7 @@
       <workItem from="1590168482774" duration="1997000" />
       <workItem from="1590328852300" duration="13812000" />
       <workItem from="1590391924796" duration="13198000" />
-      <workItem from="1590409980364" duration="3600000" />
+      <workItem from="1590409980364" duration="4599000" />
     </task>
     <servers />
   </component>
